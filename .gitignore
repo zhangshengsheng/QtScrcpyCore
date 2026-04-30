@@ -19,7 +19,7 @@ Makefile*
 *build-*
 *.qm
 *.prl
-
+*build*
 *.DS_Store
 
 # Qt unit tests
